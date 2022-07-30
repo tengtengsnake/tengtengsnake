@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tengtengsnake
 - 👀 I’m interested in ...sports,classic_music,cryptocurrencies,etc...
 - 🌱 I’m currently learning ...computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m on the road to become a data_scientist 
 - 📫 How to reach me ...peitengtsai@gmail.com
 
 <!---
