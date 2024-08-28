@@ -1,2 +1,2 @@
-<script src="https://tryhackme.com/badge/3174712"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/hackcatteng.png" alt="TryHackMe">
 
